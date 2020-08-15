@@ -19,7 +19,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 
-## Program Images
-![Example 1:A beam with a point load, with 2 supports ](https://github.com/amin-tabrizian/Beam-Deflection-Calculator/blob/master/Application%20Images/2.png)
-![Example 2: A beam with a point load, with 3 supports](https://github.com/amin-tabrizian/Beam-Deflection-Calculator/blob/master/Application%20Images/1.png)
-![Example 3: A beam with a point load, and a distriubted load with 4 supports](https://github.com/amin-tabrizian/Beam-Deflection-Calculator/blob/master/Application%20Images/1.png)
+## Connections
+![Circuit](https://github.com/amin-tabrizian/Ball-and-Beam-Controll-system/blob/master/Circuit.png)
+
