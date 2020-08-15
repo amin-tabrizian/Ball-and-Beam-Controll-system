@@ -31,13 +31,18 @@ In this system we read position of the ball along the beam with a distance senso
 ### PID Coefficients Tuning
 
 Here is a toturial that we have created for tuning PID coefficients:
+https://youtu.be/oHgQ4Xo35cY
 
+## Code
+
+The system code is availabe in the repository.
 ## System Test
 
 This system has been tested with numerous setpoints. Here is a video for a setpoint at 22 cm:
-
+https://youtu.be/t-Y1mH-nyjY
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
