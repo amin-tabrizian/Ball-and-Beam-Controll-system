@@ -1,7 +1,8 @@
 
 # Ball and Beam Control System
 
-This is a mechanism capable to control a ball on a beam at any desired setpoints. 
+This is a mechanism capable to control a ball on a beam at any desired setpoints.
+
 ##  Parts
 
 ### Mechancial Parts
@@ -48,3 +49,4 @@ Please make sure to update tests as appropriate.
 
 
 
+Note: All images are orginial.
