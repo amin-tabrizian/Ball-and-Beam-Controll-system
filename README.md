@@ -22,7 +22,7 @@ This is a mechanism capable to control a ball on a beam at any desired setpoints
 ![Circuit](https://github.com/amin-tabrizian/Ball-and-Beam-Controll-system/blob/master/Circuit.png)
 
 ## Final Mechanism
-!(https://github.com/amin-tabrizian/Ball-and-Beam-Controll-system/blob/master/Final%20Mechanism.JPG)
+![Final Model](https://github.com/amin-tabrizian/Ball-and-Beam-Controll-system/blob/master/Final%20Mechanism.JPG)
 ## Controller
 
 In this system we read position of the ball along the beam with a distance sensor. Then we filter the input data for eliminating noises. A PID Controller will receive the data and after the computation adjust servo angle.
